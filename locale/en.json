@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Open in Qoder CN IDE",
+    "description": "Adds a conversation-header button that hands the current workspace directory to the Qoder CN IDE installed on this Host, for deployments whose built-in Open In... catalog does not list it."
+  }
+}

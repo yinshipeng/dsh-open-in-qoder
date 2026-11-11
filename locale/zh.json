@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "在 Qoder CN IDE 中打开",
+    "description": "在会话头部加一个按钮，把当前会话的 workspace 目录直接交给本机的 Qoder CN IDE 打开。内置的「Open In...」目录是编译期固定的白名单，没有收录这个应用时用它。"
+  }
+}

@@ -1,0 +1,8 @@
+# dsh-open-in-qoder bundle patch: inserts one dual-face row into the profile
+# roster. The node half (exports ".") resolves the local Qoder CN IDE bundle and
+# serves GET /open-in-qoder/status + POST /open-in-qoder/open; the browser half
+# (exports "./client", declared by `dsh.client` in package.json) renders the
+# conversation-header button.
+- insert:
+    - id: qoder-open
+      name: dsh-open-in-qoder
